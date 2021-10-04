@@ -1,0 +1,143 @@
+body {
+  background-color: #F8F5F1;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #5AA897;
+  font-family: 'Ephesis', sans-serif;
+  font-size: 550%;
+  margin-top: 50;
+  margin-bottom: 0;
+}
+
+h2 {
+  color: #5AA897;
+  font-size: 150%
+  font-weight: normal;
+  line-height: 2;
+}
+
+h3 {
+  color: #F8A488;
+}
+
+p {
+  color: #45526C;
+}
+
+hr {
+  background-color: #F8F5F1;
+  border-color: #F8A488;
+  border-width: 8px;
+  border-style: dotted none none;
+  height: 0px;
+  padding-bottom: 20px;
+  width: 20%;
+}
+
+div {
+  background-color: #F8F5F1;
+}
+
+a {
+  color: #F8A488;
+}
+
+#cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+#cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+#me {
+  width: 20%;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #F8A488;
+  font-size: 20px;
+  background: #45526C;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #45526C;
+  background-image: -webkit-linear-gradient(top, #45526C, #3498db);
+  background-image: -moz-linear-gradient(top, #45526C, #3498db);
+  background-image: -ms-linear-gradient(top, #45526C, #3498db);
+  background-image: -o-linear-gradient(top, #45526C, #3498db);
+  background-image: linear-gradient(to bottom, #45526C, #3498db);
+  text-decoration: none;
+}
+
+.contact-me {
+  line-height: 2;
+  padding-bottom: 60px;
+}
+
+.project-row {
+  line-height: 2;
+  margin: auto;
+  padding-bottom: 20px;
+  text-align: left;
+  width: 50%;
+}
+
+.code-img {
+  float: left;
+  margin-bottom: 40px;
+  margin-right: 30px;
+  margin-top: 25px;
+}
+
+.project-img {
+  float: right;
+  margin-bottom: 60px;
+  margin-left: 30px;
+  margin-top: 25px;
+}
+
+.profile {
+  line-height: 2;
+  margin: auto;
+  padding-bottom: 20px;
+  width: 50%
+}
+
+.skill-row {
+  line-height: 2;
+  margin: auto;
+  padding-bottom: 20px;
+  text-align: left;
+  width: 50%;
+}
+
+.top-container {
+  background-color: #F8F5F1;
+  padding-bottom: 50px;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #F8F5F1;
+}
+
+.bottom-container {
+  background-color: #5AA897;
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
